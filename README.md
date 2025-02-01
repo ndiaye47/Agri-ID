@@ -38,7 +38,7 @@ Agri-ID is a digital platform that provides African farmers with a unique digita
 
 ## 🧑‍💻 Contributors
 - 👤 **Awa LO** - [GitHub](#)
-- 👤 **Babacar NDIAYE** - [GitHub](#)
+- 👤 **Babacar NDIAYE** - [GitHub](https://github.com/ndiaye47/)
 - 👤 **Mohamed SALL** - [GitHub](https://github.com/medz1511)
 - 👤 **Mouhamed Amar** - [GitHub](#)
 - 👤 **Mohamed MBAYE** - [GitHub](#)
