@@ -37,7 +37,7 @@ Agri-ID is a digital platform that provides African farmers with a unique digita
 ✅ Integration with IoT devices for smart farming  
 
 ## 🧑‍💻 Contributors
-- 👤 **Awa LO** - [GitHub](#)
+- 👤 **Awa LO** - [GitHub](https://github.com/Awa-LO)
 - 👤 **Babacar NDIAYE** - [GitHub](https://github.com/ndiaye47/)
 - 👤 **Mohamed SALL** - [GitHub](https://github.com/medz1511)
 - 👤 **Mouhamed Amar** - [GitHub](#)
